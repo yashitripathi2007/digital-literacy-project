@@ -16,7 +16,7 @@ As a proud Student Digital Ambassador, I created this portfolio to empower my ba
 - Task 4: Professional Email Etiquette & Social Media Checklist  
 - Task 5: Cybercrime Case Study & Prevention Guide  
 
-Google Form Quiz (for our batch): [PASTE YOUR GOOGLE FORM LINK HERE]
+Google Form Quiz (for our batch): https://docs.google.com/forms/d/e/1FAIpQLScN_8CcykT03eQYUS-CftkiUmLiFoM6ZnMwWv5O4B-qRCzZlg/viewform?usp=publish-editor
 
 Full Project Report: [report/Project_Report.pdf](report/Project_Report.pdf)
 
