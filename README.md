@@ -18,7 +18,7 @@ As a proud Student Digital Ambassador, I created this portfolio to empower my ba
 
 Google Form Quiz (for our batch): https://docs.google.com/forms/d/e/1FAIpQLScN_8CcykT03eQYUS-CftkiUmLiFoM6ZnMwWv5O4B-qRCzZlg/viewform?usp=publish-editor
 
-Full Project Report: [report/Project_Report.pdf](report/Project_Report.pdf)
+Full Project Report: [report/Project_Report.pdf](report/Report.pdf)
 
 ---
 
